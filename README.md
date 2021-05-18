@@ -1,5 +1,7 @@
 # Build a Basic CNN using Keras
 
+![Image](https://miro.medium.com/max/770/1*1_RWtODBJ1MhYwRSJ-XCbw.png)
+
 This is a beginner's guide to developing a simple convolutional neural network (CNN) using the Keras library in Python. The CNN will be used to perform a basic image classifcation task on the MNIST dataset.
 
 ## Environment setup
