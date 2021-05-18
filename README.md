@@ -17,3 +17,23 @@ Follow the installation guides below depending on your OS.
 ### Windows
 
 ### MacOS
+
+
+## Implementation
+
+The following code can be used to develop a simple CNN in one .py file. Complete code can be found in the net.py file in this repository.
+
+### Library imports
+
+We must firstly import the libraries we earlier installed:
+
+'''
+# import libraries
+
+'''
+---
+
+### Data preperation
+
+
+
