@@ -27,10 +27,11 @@ The following code can be used to develop a simple CNN in one .py file. Complete
 
 We must firstly import the libraries we earlier installed:
 
-'''
+```
 # import libraries
-
-'''
+from keras.datasets import mnist
+from matplotlib import pyplot
+```
 ---
 
 ### Data preperation
