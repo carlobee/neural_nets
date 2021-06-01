@@ -14,11 +14,21 @@ You will require the following software to perform this task:
 - *NumPy* (a python library to help manage large arrays of data)
 - *Matplotlib* (a python library for plotting visualisations)
 
-Follow the installation guides below depending on your OS.
+There is no need to download the image dataset for this particular task as this is contained within the Keras library.
 
-### Windows
+### Environment setup
 
-### MacOS
+Given that python and pip have been installed on your machine, use the following terminal commands to install the required libraries:
+
+```
+pip install keras
+```
+```
+pip install matplotlib
+```
+```
+pip install numpy
+```
 
 
 ## Implementation
