@@ -16,8 +16,6 @@ You will require the following software to perform this task:
 
 There is no need to download the image dataset for this particular task as this is contained within the Keras library.
 
-### Environment setup
-
 Given that python and pip have been installed on your machine, use the following terminal commands to install the required libraries:
 
 ```
