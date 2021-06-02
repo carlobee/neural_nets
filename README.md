@@ -1,8 +1,8 @@
-# Build a Basic CNN using Keras
+# Build a Basic Neural Network using Keras in Python
 
 ![Image](https://miro.medium.com/max/770/1*1_RWtODBJ1MhYwRSJ-XCbw.png)
 
-This is a beginner's guide to developing a simple convolutional neural network (CNN) using the Keras library in Python. The CNN will be used to perform a basic image classifcation task on the MNIST dataset.
+This is a beginner's guide to developing a simple artificial neural network (ANN) using the Keras library in Python. The net will be used to perform a basic image classifcation task on the MNIST dataset.
 
 ## Environment setup
 
@@ -31,8 +31,6 @@ pip install numpy
 
 ## Implementation
 
-The following code can be used to develop a simple CNN in one .py file. Complete code can be found in the net.py file in this repository.
-
 ### Library imports
 
 We must firstly import the libraries we earlier installed:
@@ -46,5 +44,12 @@ from matplotlib import pyplot
 
 ### Data preperation
 
+
+
+```
+# import libraries
+from keras.datasets import mnist
+from matplotlib import pyplot
+```
 
 
